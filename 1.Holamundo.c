@@ -6,7 +6,7 @@
 /* Función main inicia la ejecución del programa*/ 
 int main(){
 /* \n new line. Caracter de escape */
-    printf("Hola Mundo prueba \n");  
+    printf("Hola Mundo  \n");  
 /*  return El programa ha finalizado con exito*/
     return 0;
 }
