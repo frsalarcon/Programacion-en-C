@@ -6,7 +6,8 @@
 /* Función main inicia la ejecución del programa*/ 
 int main(){
 /* \n new line. Caracter de escape */
-    printf("Hola Mundo  \n");  
+    printf("Hola Mundo prueba \n");  
 /*  return El programa ha finalizado con exito*/
     return 0;
 }
+/*Comentario desde gitlens*/
